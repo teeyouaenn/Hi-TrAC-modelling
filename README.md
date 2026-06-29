@@ -104,9 +104,6 @@ data, please refer to the code and examples in this [repository][paper_github].
 
 ## Credits
 
-The GSFA package is developed by Yifan Zhou from the
-[He Lab](http://xinhelab.org) and [Chen Lab](http://www.mengjiechen.com) 
-at the University of Chicago.
 
 [biorxiv]: https://www.biorxiv.org/content/10.1101/2022.02.13.480282v1
 [mit-license]: https://opensource.org/licenses/mit-license.html
